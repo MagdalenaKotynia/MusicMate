@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">MusicMate</string>
+    <string name="login_button_text">Logowanie</string>
+    <string name="register_button_text">Rejestracja</string>
+    <string name="username_hint">Nazwa użytkownika</string>
+    <string name="confirm_password_text">Powtórz hasło</string>
+    <string name="registry_button_text">Zarejestruj się</string>
+    <string name="have_already_account_text">Mam już konto</string>
+    <string name="password_text">Hasło</string>
+    <string name="new_password_text">Nowe hasło</string>
+    <string name="email_text">e-mail</string>
+    <string name="email_title">E-mail</string>
+    <string name="instrument_hint">instrument</string>
+    <string name="registry_text">Zarejestruj się</string>
+    <string name="status_prompt">Kogo szukasz?</string>
+    <string name="level_prompt">Twój poziom zaawansowania</string>
+    <string name="yes_text">tak</string>
+    <string name="no_text">nie</string>
+    <string name="localisation_switch_text">Udostępnianie lokalizacji</string>
+    <string name="changes_saved_toast">Zapisano zmiany</string>
+    <string name="error_toast">Wystąpił błąd</string>
+    <string name="passwords_not_equal_toast">Hasła nie są takie same</string>
+    <string name="login_error_toast">Błąd logowania</string>
+    <string name="registration_error_toast">Błąd rejestracji</string>
+    <string name="rehearsal_space_title">Miejsce na próby</string>
+    <string name="experience_level_title">Poziom zaawansowania</string>
+    <string name="save_button">Zapisz</string>
+    <string name="return_button">Powrót do listy</string>
+    <string name="username_text">Nazwa użytkownika</string>
+    <string name="status_title">Status</string>
+    <string name="instrument_text">Instrument</string>
+    <string name="experience_level_text">Poziom zaawansowania</string>
+    <string name="rehearsal_space_text">Miejsce na próby</string>
+    <string name="rehearsal_space">Mam miejsce na próby</string>
+    <string name="has_rehearsal_space">Ma miejsce na próby</string>
+    <string name="searchMusicianButton">Wyszukiwanie muzyków</string>
+    <string name="sign_out_button">Wyloguj</string>
+    <string name="login_text">Zaloguj się</string>
+    <string name="send_email_button">Resetuj hasło</string>
+    <string name="reset_text">Podaj adres e-mail</string>
+    <string name="register_text">Nie masz konta? Zarejestruj się.</string>
+    <string name="remember_password_text">Pamiętasz hasło? Zaloguj się.</string>
+    <string name="forgot_password_text">Zapomniałem hasło</string>
+    <string name="search_button">Szukaj</string>
+    <string name="edit_profile_button">Edycja profilu</string>
+    <string name="profileDetailsButton">Szczegóły profil z listy</string>
+    <string name="password_reset_text">Reset hasła</string>
+    <string name="savePassword">Zapisz hasło</string>
+    <string name="password_reset_fail_text">Reset hasła nie powiódł się</string>
+    <string name="email_send_failed_text">Reset hasła nie powiódł się</string>
+    <string name="email_send_success_text">Wysłano e-mail do resetu hasła</string>
+    <string name="no_musicians_found_toast">Nie znaleziono muzyków</string>
+    <string name="rehersal_space_title">Miejsce na próby</string>
+    <string name="search_error_text">Błąd wyszukiwania</string>
+    <string-array name="status_list">
+        <item>Szukam muzyka</item>
+        <item>Szukam zespołu</item>
+        <item>Nie szukam</item>
+    </string-array>
+
+    <string-array name="level_list">
+        <item>Początkujący</item>
+        <item>Średniozaawansowany</item>
+        <item>Zaawansowany</item>
+    </string-array>
+
+    <string-array name="status_list_query">
+        <item>Dowolny</item>
+        <item>Szukam muzyka</item>
+        <item>Szukam zespołu</item>
+        <item>Nie szukam</item>
+    </string-array>
+
+    <string-array name="level_list_query">
+        <item>Dowolny</item>
+        <item>Początkujący</item>
+        <item>Średniozaawansowany</item>
+        <item>Zaawansowany</item>
+    </string-array>
+
+</resources>

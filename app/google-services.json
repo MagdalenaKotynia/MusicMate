@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "659860341981",
+    "project_id": "musicmate-22cb3",
+    "storage_bucket": "musicmate-22cb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659860341981:android:c12af37ea534f137ff4734",
+        "android_client_info": {
+          "package_name": "pl.mkotynia.musicmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659860341981-sqvkfjhkc3tsdup1abvmj4qmo8j1l66i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.mkotynia.musicmate",
+            "certificate_hash": "0f90cebeb5867f6693b8bd317f6b79e591a37ce8"
+          }
+        },
+        {
+          "client_id": "659860341981-1hnotp84hk9b3665ih36ghhmddm080j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW5mAPdnI1_kyAk8QM3tLH8THd9m_BRhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659860341981-1hnotp84hk9b3665ih36ghhmddm080j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
